@@ -20,6 +20,8 @@ Run `auth.py`, enter your *client/application ID*, allow the application to acce
 
 The *code* might be hidden in the browser *Address Bar*.
 
+You also want to edit *line 8* of `backup.py` and point it to your actual config file.
+
 # Export Notes
 
 Just run `backup.py ~/your/destination/folder` to export all notes as html files.
